@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "962942198517",
+    "firebase_url": "https://comgeo-bd558.firebaseio.com",
+    "project_id": "comgeo-bd558",
+    "storage_bucket": "comgeo-bd558.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962942198517:android:a1260ebc8b8b7c4e",
+        "android_client_info": {
+          "package_name": "com.example.alvaroteruelcanones.firebase2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962942198517-u35sklfr45epppsege04ji8potudr63b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDVNzLABUpNXDwMkXasTtOjqy9bW9wG70"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

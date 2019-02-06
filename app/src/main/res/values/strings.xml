@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Firebase2</string>
+    <string name="campo_email"></string>
+    <string name="campo_password"></string>
+    <string name="texto_email">email</string>
+    <string name="texto_password">contraseña</string>
+
+    <string name="boton_login">Login</string>
+    <string name="boton_logout">Logout</string>
+    <string name="boton_register">Register</string>
+    <string name="boton_verify_email">Verify</string>
+    <string name="title_activity_inicio">Inicio</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+
+    <string name="tracking_enabled_notif">Tracking is currently enabled. Tap to cancel.</string>
+    <string name="test_email">test@test.com</string>
+    <string name="test_password">testpassword</string>
+    <string name="firebase_path">location</string>
+
+</resources>
