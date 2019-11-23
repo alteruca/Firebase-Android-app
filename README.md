@@ -8,7 +8,7 @@ Firebase is used for the authentication and storage with JSON objects. Once the 
 ## Prerequesites
 
 * Install the last version of android studio 
-* It is requested to have an account in Firebase so you can change the credentials in the code [PurpleBooth] (https://firebase.google.com/docs/android/setup/?gclid=CjwKCAiAzuPuBRAIEiwAkkmOSDXaERzYlb-PYgIC7WcB4-In0P7LD9n6rtB6tui-uhtlHv-Dd1gIehoCsPcQAvD_BwE#create-firebase-project)
+* It is requested to have an account in Firebase so you can change the credentials in the code - [Firebase tutorial] (https://firebase.google.com/docs/android/setup/?gclid=CjwKCAiAzuPuBRAIEiwAkkmOSDXaERzYlb-PYgIC7WcB4-In0P7LD9n6rtB6tui-uhtlHv-Dd1gIehoCsPcQAvD_BwE#create-firebase-project)
 
 ## Install
 
@@ -21,4 +21,4 @@ The virtual device used for the testing has been: Nexus_5X_API_28
 
 ## Author
 
-* **Álvaro Teruel Cañones** - *Initial work* - [PurpleBooth](https://github.com/alteruca)
+* **Álvaro Teruel Cañones** - *Initial work* - [alteruca](https://github.com/alteruca)
